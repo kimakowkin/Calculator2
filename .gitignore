@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+Calculator2.csproj
+Calculator2.sln
